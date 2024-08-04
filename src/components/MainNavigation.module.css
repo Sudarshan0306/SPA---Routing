@@ -21,3 +21,8 @@
     color: var(--color-primary-800);
     text-decoration: underline;
   }
+  a:hover,
+  a:active {
+    text-decoration: underline;
+    color: var(--color-primary-800);
+  }
